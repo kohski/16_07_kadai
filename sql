@@ -1,9 +1,0 @@
-aaa
-kkk
-sss
-aaa
-sss
-ddd
-fff
-ggg
-hhh
